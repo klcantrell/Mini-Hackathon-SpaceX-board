@@ -1,0 +1,15 @@
+body {
+	background: darkgrey;
+}
+
+.box {
+	background: lightgrey;
+	width: 60vw;
+	border: 1px solid black;
+	overflow: hidden;
+	margin-top: 10px;
+}
+
+.profile-pic {
+	width: 50px;
+}
