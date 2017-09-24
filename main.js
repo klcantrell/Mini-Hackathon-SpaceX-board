@@ -11,5 +11,5 @@ function createTweet() {
  setInterval(function() {
  	createTweet();
  	$('.box').first().fadeIn(800);
- }, 1000);
+ }, 6000);
 
